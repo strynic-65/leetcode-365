@@ -1,0 +1,29 @@
+# ---------------------------------------------------------
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore compiled C++ executables
+*.exe
+*.out
+*.obj
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Python cache (if you use Python for some problems)
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore backups
+*.bak
+*.swp
