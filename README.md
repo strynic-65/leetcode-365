@@ -99,17 +99,6 @@ This helps in:
 
 ---
 
-# 📈 Progress Tracker
-
-| Day | Problem | Topic | Status |
-|-----|---------|--------|--------|
-| 001 | Two Sum | Arrays | ✅ Completed |
-| ... | Coming Soon | — | 🔄 In Progress |
-
-> I will update this table every time I add a new problem.
-
----
-
 # 🛠 Languages Used
 
 - **C++ (primary)**
